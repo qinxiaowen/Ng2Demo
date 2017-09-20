@@ -1,2 +1,2 @@
 # Ng2Demo
-学习ng2 写着玩的 
+my self-learning vue code
