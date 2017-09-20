@@ -1,2 +1,2 @@
 # Ng2Demo
-my self-learning vue code
+my self-learning ng2 code
